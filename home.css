@@ -1,0 +1,30 @@
+body {
+    background-color: #add8e6;
+  }
+nav {
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  main{
+   size-adjust: 50px;
+  }
+  p {
+    style="float: left; margin-right: 1em;"
+    size: 50px;
+}
